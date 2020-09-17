@@ -7,6 +7,8 @@ import TinderCards from "./TinderCards";
 import SwipeButtons from "./SwipeButtons";
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
+import './assets/styles/global.css';
+
 function App() {
     return (
         <div className="App">
