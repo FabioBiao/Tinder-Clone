@@ -70,11 +70,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 
-## NOTES
-https://www.youtube.com/watch?v=DQfeB_FKKkc&t=12262s
-
-
-
-https://console.firebase.google.com/project/tinder-clone-ad20f/firestore/data~2F
-
-https://youtu.be/DQfeB_FKKkc?t=5913
